@@ -1,0 +1,71 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family:poppins;
+}
+
+
+.portfolio_menu {
+    display: none; 
+    list-style: none;
+    padding: 0;
+    opacity: 0; 
+    transition: opacity 0.3s ease, transform 0.3s ease; 
+    transform: translateY(-20px); 
+}
+
+
+.hamburger_menu {
+    display: none; 
+}
+
+@media (max-width: 768px) {
+    .hamburger_menu {
+        display: block; 
+    }
+}
+
+
+.portfolio_menu.show {
+    display: block; 
+    opacity: 1; 
+    transform: translateY(0); 
+}
+
+img, embed, object, video, picture {
+    max-width: 100%;
+}
+
+p, h1, h2, h3, h4, h5 {
+    margin: px;
+    padding: 0px;
+}
+
+a {
+    text-decoration: none;
+    transition: all .8s ease-in;
+}
+
+input, textarea {
+    display: block;
+    margin: 0px;
+    padding: 0px;
+}
+
+section h2, section h3, section p {
+    padding-left: 11px;
+}
+
+.spacer {
+    margin-top: 80px;
+}
+
+.txt-spacer {
+    margin-top: 90px;
+}
