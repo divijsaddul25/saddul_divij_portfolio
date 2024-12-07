@@ -1,10 +1,26 @@
-# saddul_divij_portfolio
+# Divij Saddul Portfolio
+
+Hello! I’m Divij Saddul, a multimedia designer focused on creating beautiful and functional designs.
+I'm proficient in Adobe programs and Cinema 4D, and I'm always open to learning new software to expand my skills.
 
 
-Hey there! I’m Divij Saddul, a multimedia designer who loves crafting beautiful and functional designs. I specialize in UI/UX design, logo creation, and packaging.
+This repository contains my portfolio project, which showcases both design and development skills.
 
-This repo consist of my portfolio project :
+## Coding languages Used
 
-Front End Development :  Html,Css,Sass,JS
+### Front-End:
+- HTML5
+- CSS3
+- Sass
+- JavaScript
 
-Back End Development : Php,Mysql
+### Back-End:
+- PHP
+- MySQL
+
+## Features:
+- Interactive UI/UX with smooth transitions 
+- Fully responsive design
+- Portfolio showcase
+- showcase of case study pages
+- Contact form for easy communication
