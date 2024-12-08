@@ -1,26 +1,17 @@
-# Divij Saddul Portfolio
+# Divij Saddul - Multimedia Designer
 
-Hello! I’m Divij Saddul, a multimedia designer focused on creating beautiful and functional designs.
-I'm proficient in Adobe programs and Cinema 4D, and I'm always open to learning new software to expand my skills.
+Hi, I'm **Divij Saddul** – a **multimedia designer and front-end developer** focused on creating visually engaging and functional web experiences. I’m proficient in tools like **Figma**, **Cinema 4D**, and Adobe Creative Suite, as well as front-end development technologies. 🚀
 
+## Skills & Tools to Build Websites:
+- **Design**: Adobe Photoshop, Illustrator, XD, After Effects, **Figma**, Cinema 4D
+- **Development**: HTML5, CSS3, Sass, JavaScript, **PHP**, **MySQL** 💻
+- **Animations**: **Greensock (GSAP)** for complex animations, **CSS animations** for subtle effects
 
-This repository contains my portfolio project, which showcases both design and development skills.
+## Key Features:
+- **Interactive UI/UX** with smooth transitions
+- **Animations**: Engaging effects using **GSAP** and **CSS**
+- **Fully Responsive**: Seamless experience across desktop, tablet, and mobile
+- **Case Study Pages**: Detailing design process, challenges, and solutions
+- **Contact Form**: Easy communication for inquiries
 
-## Coding languages Used
-
-### Front-End:
-- HTML5
-- CSS3
-- Sass
-- JavaScript
-
-### Back-End:
-- PHP
-- MySQL
-
-## Features:
-- Interactive UI/UX with smooth transitions 
-- Fully responsive design
-- Portfolio showcase
-- showcase of case study pages
-- Contact form for easy communication
+This portfolio is a work in progress, and I will continue to improve and update it as I grow and refine my skills. Thank you for taking the time to explore! 🙏
