@@ -17,7 +17,7 @@
 
 <?php
 //connect to the running database server and the specific database
-require_once('includes/connect.php');
+require_once('includes/connect.php');``
 
 
 
@@ -81,32 +81,15 @@ $results = mysqli_query($connect,$query);
         <section id="projects" class="col-span-full">
             <h2>Projects</h2>
             <div class="lightbox-grid">
+                <?php
+                echo '<a href="case-study.php?id=' $row['project'].'">';
                 <div class="lightbox-item col-span-3">
-                    <img src="/images/zima.jpg" alt="zima">
+                   echo '<img src="images/zima.jpg" alt="zima">';
                 </div>
-                <div class="lightbox-item col-span-3">
-                    <img src="/images/Rectangle 90.jpg" alt="music mixer">
-                </div>
-                <div class="lightbox-item col-span-3">
-                    <img src="/images/kvrk.png" alt="kavorka">
-                </div>
-                <div class="lightbox-item col-span-3">
-                    <img src="/images/lava_lush.jpg" alt="lava lush">
-                </div>
-
-                <div class="lightbox-item col-span-3">
-                    <img src="/images/earbuds_poster_2.png" alt="audia earbuds">
-                </div>
-
-                <div class="lightbox-item col-span-3">
-                    <img src="/images/persian_render.jpg" alt="persian market">
-                </div>
-
-                <div class="lightbox-item col-span-3">
-                    <img src="/images/fanfare.jpg" alt="fanfare">
-                </div>
+                echo'</a>'
+                ?>
             </div>
-        </section>>
+        </section>
 
        
         <section id="demo-reel" class="col-span-full">
