@@ -2,7 +2,7 @@
 
 Hi 👋, I'm **Divij Saddul** – a **multimedia designer and front-end developer** focused on creating visually engaging experiences such as logo design,motion graphics,packaging and ui/ux design . I’m proficient in tools like **Figma**, **Cinema 4D**, and Adobe Creative Suite, as well as front-end development technologies. 🚀
 
-## Skills & Tools to Build Websites:
+## Skills & Tools to Build Website:
 - **Design**: Adobe Photoshop, Illustrator, XD, After Effects, **Figma**, Cinema 4D
 - **Development**: HTML5, CSS3, Sass, JavaScript, **PHP**, **MySQL** 💻
 - **Animations**: **Greensock (GSAP)** for complex animations, **CSS animations** for subtle effects
