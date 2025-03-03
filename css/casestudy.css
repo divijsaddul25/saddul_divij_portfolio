@@ -181,6 +181,53 @@ footer .social-icons .social-icon img {
     object-fit: cover;
 }
 
+
+
+
+
+
+#project-video {
+    text-align: center;
+    padding: 20px;
+}
+
+#project-video h2 {
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+#project-video video {
+    width: 80%;
+    max-width: 80%;
+    height: auto;
+    border-radius: 8px;
+}
+
+@media (max-width: 768px) {
+    #project-video h2 {
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 480px) {
+    #project-video h2 {
+        font-size: 19px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @media (max-width: 768px) {
     #study-case-main-image {
         max-width: 100%;
