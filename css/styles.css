@@ -74,7 +74,6 @@ header nav ul li a:hover {
 }
 
 
-
 #divijbanner .intro {
   display: flex;
   justify-content: center;
@@ -351,6 +350,22 @@ header nav ul li a:hover {
 .lightbox-item:hover {
   transform: scale(1.05);
 }
+
+
+
+.lightbox-text {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  font-style:normal;
+  font-size: 20px;
+  color: #000000;
+  padding-top: 2px;
+}
+
+
+
+
+
 
 
 html {
