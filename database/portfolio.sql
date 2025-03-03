@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:8889
--- Generation Time: Dec 09, 2024 at 04:30 AM
+-- Generation Time: Feb 08, 2025 at 03:47 AM
 -- Server version: 8.0.35
 -- PHP Version: 8.2.20
 
@@ -24,6 +24,30 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
+-- Table structure for table contact
+--
+
+CREATE TABLE contact (
+  id int UNSIGNED NOT NULL,
+  fname varchar(300) NOT NULL,
+  lname varchar(565) NOT NULL,
+  email varchar(200) NOT NULL,
+  comment varchar(876) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+--
+-- Dumping data for table contact
+--
+
+INSERT INTO contact (id, fname, lname, email, comment) VALUES
+(1, 'Xavier', 'jj', 'xavier123@gmail.com', 'iibfehbvh svkzbuisbfuwifbvwbivbw'),
+(2, 'John', 'Shivam', 'jhno888@gmail.com', 'bviwbvbfvgwebavigwfl9uwf'),
+(3, 'Shon', 'Sojan', 'nohs@gmail.com', 'Divij is a good boy!!'),
+(4, 'Menon', 'Varma', 'mvgass@gmail.com', 'gdbswjcubsjdjsgeivbibsv');
+
+-- --------------------------------------------------------
+
+--
 -- Table structure for table media
 --
 
@@ -34,6 +58,17 @@ CREATE TABLE media (
   img2 varchar(1122) NOT NULL,
   img3 varchar(1000) NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
+
+--
+-- Dumping data for table media
+--
+
+INSERT INTO media (id, project_id, img1, img2, img3) VALUES
+(1, 1, 'work1.jpg', 'work11.jpg', 'work12.jpg'),
+(2, 2, 'work2.jpg', 'work21.jpg', 'work22.jpg'),
+(3, 3, 'work3.jpg', 'work31.jpg', 'work32.jpg'),
+(4, 4, 'work4.jpg', 'work41.jpg', 'work42.jpg'),
+(5, 5, 'work5.jpg', 'work51.jpg', 'work52.jpg');
 
 -- --------------------------------------------------------
 
@@ -64,6 +99,12 @@ INSERT INTO projects (id, name, description, problem) VALUES
 --
 -- Indexes for dumped tables
 --
+
+--
+-- Indexes for table contact
+--
+ALTER TABLE contact
+  ADD PRIMARY KEY (id);
 
 --
 -- Indexes for table media
