@@ -7,11 +7,23 @@ Hi, I'm **Divij Saddul** – a **multimedia designer and front-end developer** f
 - **Development**: HTML5, CSS3, Sass, JavaScript, **PHP**, **MySQL** 💻
 - **Animations**: **Greensock (GSAP)** for complex animations, **CSS animations** for subtle effects
 
-## Key Features:
-- **Interactive UI/UX** with smooth transitions
-- **Animations**: Engaging effects using **GSAP** and **CSS**
-- **Fully Responsive**: Seamless experience across desktop, tablet, and mobile
-- **Case Study Pages**: Detailing design process, challenges, and solutions
-- **Contact Form**: Easy communication for inquiries
+## Key Features & Capabilities:
 
-This portfolio is a work in progress, and I will continue to improve and update it as I grow and refine my skills. Thank you for taking the time to explore! 🙏
+- **UI/UX:**  
+  I make designs that are easy to use and look good. Whether simple website or big platform, I make sure everything works smooth for the user.
+
+- **Animations:**  
+  I use **GSAP** for more fancy animations and **CSS animations** for clean and minimalist effects. 
+
+- **Responsive Design:**  
+  My designs work on all devices – mobile, tablet, or desktop. I always make sure it looks good and works well everywhere.
+
+- **Case Study Pages:**  
+  I show how I do my projects, the problems I face, and how I solve them. This helps people understand my work and process better.
+
+- **Contact Form:**  
+  Easy-to-use contact forms so people can get in touch with me if they want to talk about working together or just want to know more.
+  
+
+My portfolio is still a **work in progress**, I’m always learning and getting better to stay on top of new design and coding trends. I keep improving so I can give better work for my clients and users. Thank You 🙏
+
