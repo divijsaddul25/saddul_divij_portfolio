@@ -105,22 +105,18 @@ header nav ul li a:hover {
 }
 
 #zima-image img {
-    width: 70%;
+    width: 30%;
     height: auto;
-    border-radius: 8px;
-    transition: transform 0.3s ease;
+    border-radius: 9px;
+    max-width: 100%;
 }
 
 @media (max-width: 768px) {
     #zima-image img {
         width: 80%;
+        max-width: 100%;
     }
 }
-
-
-
-
-
 
 
 #kavorka-image img {
