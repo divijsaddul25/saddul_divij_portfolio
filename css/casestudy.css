@@ -171,8 +171,7 @@ footer .social-icons .social-icon img {
     margin: 0 auto;
     padding: 10px;
     box-sizing: border-box;
-    resize: both;
-    overflow: hidden;
+   overflow: hidden;
 }
 
 #study-case-main-image img {
